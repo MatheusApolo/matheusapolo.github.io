@@ -1,8 +1,4 @@
-- name: About
+- name: Sobre mim
   link: /
   anchor: '#'
   highlight: true
-- name: Publications
-  link: /
-  anchor: '#publications'
-  highlight: false
