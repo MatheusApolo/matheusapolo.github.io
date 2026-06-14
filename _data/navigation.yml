@@ -2,3 +2,18 @@
   link: /
   anchor: '#'
   highlight: true
+
+- name: PortfolioHUB
+  link: /
+  anchor: '#portfoliohub'
+  highlight: false
+
+- name: Projetos
+  link: /
+  anchor: '#projetos'
+  highlight: false
+
+- name: Implantação
+  link: /
+  anchor: '#implantacao'
+  highlight: false
