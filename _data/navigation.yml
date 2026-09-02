@@ -1,11 +1,11 @@
-- name: Sobre mim
+- name: Início
   link: /
-  anchor: '#'
+  anchor: '#inicio'
   highlight: true
 
-- name: PortfolioHUB
+- name: Sobre
   link: /
-  anchor: '#portfoliohub'
+  anchor: '#sobre'
   highlight: false
 
 - name: Projetos
@@ -13,7 +13,17 @@
   anchor: '#projetos'
   highlight: false
 
-- name: Implantação
+- name: Formação
   link: /
-  anchor: '#implantacao'
+  anchor: '#formacao'
+  highlight: false
+
+- name: English
+  link: /
+  anchor: '#english'
+  highlight: false
+
+- name: Contato
+  link: /
+  anchor: '#contato'
   highlight: false
